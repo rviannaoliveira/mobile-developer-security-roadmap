@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/c/CodandoTV"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px"/></a>
 </h3> 
 
-<h1 align="center">Mobile developer security roadmap</h1>
+<h1 align="center">Mobile developer security roadmap 🔒</h1>
 
 
 Welcome to Mobile Developer Security Roadmap 2023
