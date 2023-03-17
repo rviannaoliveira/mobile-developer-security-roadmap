@@ -26,7 +26,7 @@ This was derived from a series created on youtube about security, check it out a
 [Me](https://www.linkedin.com/in/rviannaoliveira)\
 [Gabriel Amorim](https://www.linkedin.com/in/gabriel-silveira-amorim-2a8b5827/)\
 [João Calvo](https://www.linkedin.com/in/jfc-nunes/)\
-[Gabriel Monteiro](https://www.linkedin.com/in/gabriel-silveira-amorim-2a8b5827)
+[Gabriel Monteiro](https://www.linkedin.com/in/gabrielmcsilva/)
 
 
 take a look :clapper:\
@@ -49,9 +49,9 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
   * Cryptography of userdefault
   * [General Data Encryption for :apple:](https://github.com/apple/swift-crypto)
 * ⛅ Code Obfuscation
-  * [proguard](https://developer.android.com/studio/build/shrink-code)
+  * [proguard](https://developer.android.com/studio/build/shrink-code) 🟥
   * [dexguard](https://www.guardsquare.com/)
-  * [swiftshield](https://github.com/rockbruno/swiftshield)
+  * [swiftshield](https://github.com/rockbruno/swiftshield) 🟥
   * [iXGuard](https://www.guardsquare.com/)
 * 🦠 Malware
   * Detection of accessibility services
@@ -67,7 +67,7 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
   * One time password 
   * [Proof of life](https://www.liveness.com/)
 * 🔒 Secure Communication of Data in Transit
-  * SSL
+  * SSL 🟥
   * Request Signature
   * Request Encryption
   * [TLS Pining](https://owasp.org/www-community/controls/Certificate_and_Public_Key_Pinning)
@@ -78,10 +78,10 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
   * [Sonar](https://www.sonarsource.com/products/sonarqube/)
   * [Fortify](https://fortifyapp.com/)
   * [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-  * Code Review
+  * Code Review 🟥
   * [GuardSquare](https://www.guardsquare.com)
 * 💻 Realtime Application Self Protect (Rasp) 
-  * Debug
+  * Debug 🟥
   * [Debugger](https://dexprotector.com/docs)
   * [jail break](https://medium.com/@i0sa/jailbreak-development-for-ios-developers-ba3cc54ee8f8) 🍎
   * [Root](https://github.com/scottyab/rootbeer)🤖
