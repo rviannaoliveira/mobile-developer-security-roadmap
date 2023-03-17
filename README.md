@@ -93,8 +93,8 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
 
 *  🟥 Cards that have a red tag we believe to be mandatory for any case
 
-## Git Documentation Contributors
-<img src="https://avatars.githubusercontent.com/u/7690931?s=96&amp;v=4" width="64" height="64" alt="@rviannaoliveira">
-
-
+### Git Documentation Contributors
+<a href="https://github.com/rviannaoliveira/mobile-developer-security-roadmap/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rviannaoliveira/mobile-developer-security-roadmap" />
+</a>
 
