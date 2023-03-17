@@ -5,7 +5,6 @@
 
 
 <h3 align="center"> 
- 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rviannaoliveira.mobile-developer-security-roadmap)
 <a href="https://www.linkedin.com/in/rviannaoliveira"><img src="https://user-images.githubusercontent.com/5540492/212076261-85e22389-eaae-4ac0-9c9d-06196f54ac70.png" height="20px"/></a>
 <a href="https://medium.com/@rodrigo.vianna.oliveira"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="20px"/></a>
