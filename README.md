@@ -22,9 +22,7 @@ This contains all topics to help you find what you are looking for quickly. I ho
 
 
 ### :book: Authors
-This was derived from a series created on youtube about security, check it out and subscribe to the channel!\
-
-The video was made together with:\
+This was derived from a series created on youtube about security, check it out and subscribe to the channel. The video was made together with:\
 [Me](https://www.linkedin.com/in/rviannaoliveira)\
 [Gabriel Amorim](https://www.linkedin.com/in/gabriel-silveira-amorim-2a8b5827/)\
 [João Calvo](https://www.linkedin.com/in/jfc-nunes/)\
@@ -36,7 +34,8 @@ take a look :clapper:\
 
 ### ✨ Contribution 
 This repo is open to contributions
-If you have any questions, suggestions let's have it over [Issues](https://github.com/rviannaoliveira/mobile-developer-security-roadmap/issues)
+If you have any questions, suggestions let's have it over [Issues](https://github.com/rviannaoliveira/mobile-developer-security-roadmap/issues)\
+***Remembering that this is our point of view and it is up to you to evaluate the best for your scenario***
 
 ## 🗺️ Roadmap - You can access the link to the original image of the link by [Miro](https://miro.com/app/board/uXjVPkAoz6k=/)
 
@@ -91,6 +90,8 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
   * [App Cloner](https://proandroiddev.com/preventing-android-app-cloning-e3194269bcfa)
   * [Memory Hook](https://dexprotector.com/docs)
   * [Validate the Installation Source](https://dexprotector.com/docs)
+
+*  🟥 Cards that have a red tag we believe to be mandatory for any case
 
 ## Git Documentation Contributors
 <img src="https://avatars.githubusercontent.com/u/7690931?s=96&amp;v=4" width="64" height="64" alt="@rviannaoliveira">
