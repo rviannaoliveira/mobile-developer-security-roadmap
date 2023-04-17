@@ -29,7 +29,7 @@ This was derived from a series created on youtube about security, check it out a
 [Gabriel Monteiro](https://www.linkedin.com/in/gabrielmcsilva/)
 
 
-take a look :clapper:\
+take a look and subscribe to the channel from the CodandoTV to help this initiative :clapper:\
 <a href="https://www.youtube.com/watch?v=edPQ_CEVrgo&list=PL-7tME9TKyA4W3WLme-8gp2mw5nhtSG-E"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px"/></a>
 
 ### ✨ Contribution 
