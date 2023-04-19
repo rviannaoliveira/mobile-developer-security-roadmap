@@ -45,6 +45,7 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
 
 - 📦 Safe Storage
   * [Cryptography of sharedpreferences](https://developer.android.com/reference/androidx/security/crypto/EncryptedSharedPreferences)
+  * [DataStore(modern data storage solution)](https://developer.android.com/topic/libraries/architecture/datastore)
   * [Encryption of Data to store 🤖](https://developer.android.com/reference/androidx/security/crypto/MasterKey.Builder)
   * Cryptography of userdefault
   * [General Data Encryption for :apple:](https://github.com/apple/swift-crypto)
