@@ -95,7 +95,7 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
 
 *  🟥 Cards that have a red tag we believe to be mandatory for any case
 
-Contributors:
+### Contributors:
 
 <img src="https://opencollective.com/roadmapsecurity/contributors.svg?width=890&button=false" />
 
