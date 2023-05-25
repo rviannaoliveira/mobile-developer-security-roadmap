@@ -55,13 +55,13 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
   * [swiftshield](https://github.com/rockbruno/swiftshield) 🟥
   * [iXGuard](https://www.guardsquare.com/)
 * 🦠 Malware
-  * Detection of accessibility services
-  * Screen overlay
-  * Root user block
+  * [Detection of accessibility services](https://medium.com/wultra-blog/blocking-untrusted-accessibility-readers-on-android-82a20ed60aa5)
+  * [Screen overlay](https://medium.com/devknoxio/what-is-tapjacking-in-android-and-how-to-prevent-it-50140e57bf44)
+  * [Root user block](https://github.com/scottyab/rootbeer)
   * Lock keyboard 🍎
-  * Remote access blocking
+  * [Remote access blocking](https://proandroiddev.com/protect-your-android-app-content-and-embrace-its-security-1adeb5437c6)
   * Layout configuration setFilter 🍎
-  * Enable activity parameter to leave white screen 🤖
+  * [Enable activity parameter to leave white screen 🤖](https://proandroiddev.com/protect-your-android-app-content-and-embrace-its-security-1adeb5437c6)
   * Listen to events and control the screen tree and place the screen on top :apple:
 * 🔑 User Authentication
   * Two factor authentication
@@ -94,12 +94,6 @@ If you have any questions, suggestions let's have it over [Issues](https://githu
 
 *  🟥 Cards that have a red tag we believe to be mandatory for any case
 
-
-Git Documentation Contributors
-
-<a href="https://github.com/rviannaoliveira/mobile-developer-security-roadmap/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rviannaoliveira/mobile-developer-security-roadmap" />
-</a>
 
 License
 -------
